@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **Ahsan2001/Ahsan2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+Hi, I'm Ahsan! 👋
+🔥 Software Developer grinding hard to make something cool
+✨ Favorite Tech: JavaScript, React, React Native, Python ...
+📓 I’m currently learning JavaScript and Algo... 😭
+📧 ahsan.sabir@yahoo.com
