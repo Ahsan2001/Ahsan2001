@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 ### 👋 Hi, I'm Ahsan!
 ### 🔥 Associate Software Developer 
-### ✨ Working On: JavaScript, React, React Native, Python ...
-### 📓 I’m currently learning Application Development and DevOps... 😭
+### ✨ Working On: AWS, JavaScript, React,  Gatsby ...
+### 📓 I’m currently learning React Native and DevOps... 😭
 ### 📧 ahsan.sabir@yahoo.com
