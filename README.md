@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ## Hi, I'm Ahsan! 👋
-### 🔥 Software Developer grinding hard to make something cool
-### ✨ Favorite Tech: JavaScript, React, React Native, Python ...
-### 📓 I’m currently learning JavaScript and Algo... 😭
+### 🔥 Associate Software Developer 
+### ✨ Working On: JavaScript, React, React Native, Python ...
+### 📓 I’m currently learning Application Development and DevOps... 😭
 ### 📧 ahsan.sabir@yahoo.com
