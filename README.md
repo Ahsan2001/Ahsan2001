@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ### <p align="center"> 👋 Hi, I'm Ahsan!  </p>
-### <p align="center"> 🔥 Associate Software Enginner   </p>
+### <p align="center"> 🔥 Associate Software Engineer   </p>
 ### <p align="center">✨ Working On: AWS, JavaScript, React,  Gatsby ...  </p>
 ### <p align="center"> 📓 I’m currently learning React Native and DevOps... ⚡  </p>
 ### <p align="center">📫 ahsan.sabir@yahoo.com  </p>
