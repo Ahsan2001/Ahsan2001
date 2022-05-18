@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ### <p align="center"> 👋 Hi, I'm Ahsan!  </p>
 ### <p align="center"> 🔥 Associate Software Engineer   </p>
 ### <p align="center">✨ Working MERN STACT TECHNOLOGY  </p>
-### <p align="center"> 📓 I’m currently learning DevOps and GATSBY... ⚡  </p>
 ### <p align="center">📫 ahsan.sabir@yahoo.com  </p>
 ### <p align="center">💬 +92 300 926 9560  </p>
 
