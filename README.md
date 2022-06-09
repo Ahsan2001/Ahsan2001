@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 
 
-### <p align="center"> 🔥 Software Engineer  | MERN Developer   </p>
-### <p align="center">📫 ahsan.sabir@yahoo.com  </p>
-### <p align="center">💬 +92 300 926 9560  </p>
+### <p align="center"> Software Engineer  | MERN Developer   </p>
+### <p align="center"> Contact Me:  ahsan.sabir@yahoo.com |  +92 300 926 9560   </p>
 
