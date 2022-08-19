@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 
-### <p align="center"> Software Engineer  | MERN Developer   </p>
+### <p align="center"> Software Engineer  | DevOps Engineer   </p>
 ### <p align="center"> Contact Me:  ahsan.sabir@yahoo.com |  +92 313 203 4514   </p>
 
