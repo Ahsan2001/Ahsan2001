@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 
 ### <p align="center"> Software Engineer ⚡⚡  </p>
-### <p align="center" color="#fff"> <a href="www.ahsanshaikh.com" target="_blank"> www.ahsanshaikh.com 📫 </a>  </p>
-### <p align="center"> Contact Me:  info@ahsanshaikh.com 💬 |  +92 313 203 4514  💬 </p>
+### <p align="center" color="#fff"> <a href="www.ahsanshaikh.com" target="_blank"> www.ahsanshaikh.com 🔭 </a>  </p>
+### <p align="center"> Email:  info@ahsanshaikh.com 💬 </p>
+### <p align="center"> How to reach me:  +92 300 926 9560 📫 </p>
 
