@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-### <p align="center"> Software Engineer ⚡⚡  </p>
+### <p align="center"> Software Engineer </p>
 ### <p align="center"> Email:  info@ahsanshaikh.com 💬 </p>
 ### <p align="center"> How to reach me:  +92 300 926 9560 📫 </p>
 
