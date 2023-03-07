@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 ### <p align="center"> Software Engineer </p>
 ### <p align="center"> Email:  info@ahsanshaikh.com 💬 </p>
 ### <p align="center"> How to reach me:  +92 313 203 4514 📫 </p>
+### <p align="center"> ![](https://komarev.com/ghpvc/?username=Ahsan2001) </p>
+
 
