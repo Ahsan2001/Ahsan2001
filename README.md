@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 
 ### <div align="center"> Software Engineer ⚡ </div>
-### <div align="center"> Email:  ahsan.sabir@yahoo.com 💬 </div
+### <div align="center"> Email:  ahsan.sabir@yahoo.com 💬 </div>
 ### <div align="center"> How to reach me:  +92 313 203 4514 📫 </div>
-### divp align="center"> ![](https://komarev.com/ghpvc/?username=Ahsan2001) </div>
+### <div align="center"> ![](https://komarev.com/ghpvc/?username=Ahsan2001) </div>
 
 
