@@ -23,19 +23,7 @@ Here are some ideas to get you started:
 
 
 
-
-
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahsan2001&show_icons=true&hide_border=true&count_private=true)
-
-## Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan2001&layout=compact&hide_border=true&langs_count=10)
-
-## Commit Frequency
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahsan2001&hide_border=true)
-
-## Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ahsan2001&bg_color=ffffff&color=000000&line=1d72b8&point=007bff&area=true&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&langs_count=10) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&hide_border=true)
 
 
 
