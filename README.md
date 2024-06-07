@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 
 
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahsan2001&show_icons=true&hide_border=true&count_private=true) ![Total Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan2001&layout=compact&hide_border=true&langs_count=100) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahsan2001&hide_border=true)
-
+![Total Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan2001&layout=compact&hide_border=true&langs_count=100)
 
 
