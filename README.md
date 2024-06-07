@@ -23,6 +23,3 @@ Here are some ideas to get you started:
 
 
 
-![Total Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan2001&layout=compact&hide_border=true&langs_count=100)
-
-
