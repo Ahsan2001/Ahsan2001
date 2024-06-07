@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ###  <div align="center">Hi there, I'm Ahsan 👋</div>
-
-### <div align="center"> About Me </div>
 ### <div align="center"> I'm a passionate software developer ⚡ with experience in a Javascript programming languages and frameworks. I love coding, learning new technologies, and collaborating on exciting projects.</div>
 ### <div align="center"> Email:  ahsan.sabir@yahoo.com 💬 </div>
 ### <div align="center"> Whatsup #:  +92 313 203 4514 📫 </div>
