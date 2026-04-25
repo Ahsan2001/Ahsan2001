@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ##  <div>👋 Hi there, I'm Muhammad Ahsan </div>
 ### <div>
 
-#### I’m a passionate Software Engineer with 5+ years of experience across multiple domains, specializing in modern JavaScript ecosystems like React and Next.js. I build scalable, high-performance applications with a strong focus on modern UI frameworks, while also leveraging AI-driven solutions and cloud-based architectures to deliver intelligent, efficient systems. 
+### I am a Software Engineer with over 5 years of experience across multiple domains, specializing in JavaScript, TypeScript, and Python, with strong expertise in their respective frameworks and building scalable, high-performance applications.
 
 ### **Services I Offer**
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 ### </div>
-<div align="center">
+<div>
 
 ### 💼 Hire Me on LinkedIn  
 
