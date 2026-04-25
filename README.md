@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 ### <div>
 
 ### I am a Software Engineer with over 5 years of experience across multiple domains,<br>
-specializing in JavaScript, TypeScript, and Python, with strong expertise in their respective frameworks<br>
-and building scalable, high-performance applications.
+### specializing in JavaScript, TypeScript, and Python, with strong expertise in their respective frameworks<br>
+### and building scalable, high-performance applications.
 
-### **Services I Offer**
+
+## **Services I Offer**
 
 #### 🤖 AI Engineering: Custom AI Agents, Chatbot Development, RAG (Retrieval-Augmented Generation), LLM module training
 #### 🔗 API & Backend Development: REST API integration, Node.js (Express) and Python (FastAPI) backend systems
@@ -33,16 +34,11 @@ and building scalable, high-performance applications.
 
 ### </div>
 <div align="center">
-
 ### 💼 Hire Me on LinkedIn  
-
 <a href="https://www.linkedin.com/in/muhammad-ahsan-3aa018226/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
-
-</div>
-
-
+### </div>
 ### <div align="center"> Email:  ahsan_wins@outlook.com 💬 </div>
 ### <div align="center"> Whatsup Number:  +92 (300) 926-9560 📫 </div>
 ### <div align="center"> ![](https://komarev.com/ghpvc/?username=Ahsan2001) </div>
