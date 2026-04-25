@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 #### I’m a passionate Software Engineer with 5+ years of experience across multiple domains, specializing in modern JavaScript ecosystems like React and Next.js. I build scalable, high-performance applications with a strong focus on modern UI frameworks, while also leveraging AI-driven solutions and cloud-based architectures to deliver intelligent, efficient systems. 
 
-### Services I Offer
+### **Services I Offer**
 
-### 🤖 AI Engineering: Custom AI Agents, Chatbot Development, RAG (Retrieval-Augmented Generation), LLM module training
-### 🔗 API & Backend Development: REST API integration, Node.js (Express) and Python (FastAPI) backend systems
-### ☁️ Cloud & DevOps: Azure Administration, Azure DevOps Services, AWS, Docker, Linux, CI/CD pipelines
-### 💬 AI Tools & Platforms: OpenAI, Gemini, intelligent chatbot systems
-### 🎨 Frontend Excellence: React.js, Next.js, Tailwind CSS, ShadCN UI, modern responsive design
+#### 🤖 AI Engineering: Custom AI Agents, Chatbot Development, RAG (Retrieval-Augmented Generation), LLM module training
+#### 🔗 API & Backend Development: REST API integration, Node.js (Express) and Python (FastAPI) backend systems
+#### ☁️ Cloud & DevOps: Azure Administration, Azure DevOps Services, AWS, Docker, Linux, CI/CD pipelines
+#### 💬 AI Tools & Platforms: OpenAI, Gemini, intelligent chatbot systems
+#### 🎨 Frontend Excellence: React.js, Next.js, Tailwind CSS, ShadCN UI, modern responsive design
 
 
 ### </div>
