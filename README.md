@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ##  <div>👋 Hi there, I'm Muhammad Ahsan </div>
 ### <div>
 
-### I am a Software Engineer with over 5 years of experience across multiple domains,<br>
-### specializing in JavaScript, TypeScript, and Python, with strong expertise in their respective frameworks<br>
+### I am a Software Engineer with over 5 years of experience across multiple domains, specializing 
+### in JavaScript, TypeScript, and Python, with strong expertise in their respective frameworks
 ### and building scalable, high-performance applications.
 
 
