@@ -36,7 +36,7 @@ React.js, Next.js, Tailwind CSS, ShadCN UI, modern responsive design
 
 
 
-### **Email**: ahsan_wins@outlook.com  
+### **Email**: ahsan.sabir@yahoo.com  
 ### **WhatsApp**: +92 (300) 926-9560  
 
 ![](https://komarev.com/ghpvc/?username=Ahsan2001)
