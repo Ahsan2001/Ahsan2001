@@ -3,8 +3,7 @@
 
 ### About Me
 
-I am a Software Engineer with over 5+ years of experience across multiple domains, specializing in **JavaScript, TypeScript**, with strong expertise in their respective frameworks.  
-I focus on building scalable, high-performance, and production-ready applications.
+I am a Software Engineer with over 5+ years of experience across multiple domains, specializing in **JavaScript, TypeScript**, with strong expertise in their respective frameworks. I focus on building scalable, high-performance, and production-ready applications.
 
 
 ###  Services I Offer
