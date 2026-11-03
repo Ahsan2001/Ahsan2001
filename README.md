@@ -1,38 +1,20 @@
-## 👋 Hi there, I'm Muhammad Ahsan
-
-
 ### About Me
 
-I am a Software Engineer with over 5+ years of experience across multiple domains, specializing in **JavaScript, TypeScript**, with strong expertise in their respective frameworks. I focus on building scalable, high-performance, and production-ready applications.
-
-
-###  Services I Offer
-
-#### **1) AI Engineering**  
-Custom AI Agents, Chatbot Development, RAG (Retrieval-Augmented Generation), LLM module training
-
-#### **2) API & Backend Development**  
-REST API integration, Node.js (Express) backend systems
-
-#### **3) Cloud & DevOps**  
-Azure Administration, Azure DevOps Services, AWS, Docker, Linux, CI/CD pipelines
-
-#### **4) AI Tools & Platforms**  
-OpenAI, Gemini, intelligent chatbot systems
-
-####  **5) Frontend Excellence**  
-React.js, Next.js, Tailwind CSS, ShadCN UI, modern responsive design
-
+I'm Muhammad Ahsan, a **Computer Science Graduate**, **Senior Full-Stack Developer**, and **Microsoft Certified Azure Administrator and DevOps Engineer** with 5+ years of experience building scalable web applications and managing cloud infrastructure. I specialize in developing modern dashboards, admin panels, and business applications using **React.js, Next.js, Node.js, Express.js, Python, FastAPI, PostgreSQL, and MongoDB**. I also work with **Microsoft Azure, AWS, Docker, Linux, Kubernetes, and CI/CD pipelines**, delivering end-to-end software development, cloud infrastructure management, automation, and DevOps solutions.
 ---
 
 <div align="center">
-
-
 
 ### **Email**: ahsan_wins@outlook.com  
 ### **WhatsApp**: +92-300-9269560  
 
 ![](https://komarev.com/ghpvc/?username=Ahsan2001)
 
+</div>
+---
 
+<div align="center">
+### **Email**: ahsan_wins@outlook.com  
+### **WhatsApp**: +92-300-9269560  
+![](https://komarev.com/ghpvc/?username=Ahsan2001)
 </div>
