@@ -4,9 +4,9 @@ I'm Muhammad Ahsan, a **Computer Science Graduate**, **Senior Full-Stack Develop
 
 <div align="center">
 
+### **LinkedIn**: [Muhammad Ahsan](https://www.linkedin.com/in/muhammad-ahsan-3aa018226/)
 ### **Email**: ahsan_wins@outlook.com  
 ### **WhatsApp**: +92-300-9269560  
-### **LinkedIn**: [Muhammad Ahsan](https://www.linkedin.com/in/muhammad-ahsan-3aa018226/)
 
 
 ![](https://komarev.com/ghpvc/?username=Ahsan2001)
