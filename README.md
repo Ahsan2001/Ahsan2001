@@ -10,10 +10,3 @@ I'm Muhammad Ahsan, a **Computer Science Graduate**, **Senior Full-Stack Develop
 ![](https://komarev.com/ghpvc/?username=Ahsan2001)
 
 </div>
----
-
-<div align="center">
-### **Email**: ahsan_wins@outlook.com  
-### **WhatsApp**: +92-300-9269560  
-![](https://komarev.com/ghpvc/?username=Ahsan2001)
-</div>
